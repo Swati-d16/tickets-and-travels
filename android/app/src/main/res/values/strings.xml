@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ticketsandtravel</string>
+    <string name="title_activity_main">ticketsandtravel</string>
+    <string name="package_name">com.swati.myapp</string>
+    <string name="custom_url_scheme">com.swati.myapp</string>
+</resources>
