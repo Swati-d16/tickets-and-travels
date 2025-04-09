@@ -1,12 +1,23 @@
-# React + Vite
+## TICKETS AND TRAVEL
+This is a logic-based puzzle assignment where the objective is to trace a hidden route taken across Europe using only train tickets and a list of visited cities.
+![Screenshot 2025-04-10 003540](https://github.com/user-attachments/assets/fca51062-d086-442d-8f23-2fe61dfab063)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🧩 The Scenario
 
-Currently, two official plugins are available:
+A son takes a secret vacation through Europe without informing his parent. When he returns, he lists the cities he visited:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Amsterdam → Kiev → Zurich → Prague → Berlin → Barcelona**
 
-## Expanding the ESLint configuration
+He only used train transportation, and the available tickets were:
+Paris → Skopje
+Zurich → Amsterdam
+Prague → Zurich
+Barcelona → Berlin
+Kiev → Prague
+Skopje → Paris
+Amsterdam → Barcelona
+Berlin → Kiev
+Berlin → Amsterdam
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
